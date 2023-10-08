@@ -49,7 +49,7 @@ Kelas : TI.22.A1
 ```
 > - Maka hasilnya akan seperti berikut : 
 
-![img](Pictures/Screenshot%20(124).png)
+
 
 
 ### 2. Mendeklerasikan CSS Internal
